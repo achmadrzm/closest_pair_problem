@@ -19,6 +19,9 @@ The algorithm will print the distance and the two closest points in the set, as 
 - Python 3.x
 - `matplotlib` library for plotting
 
+## Plot:
+![Plot](img/plot.png)
+
 ## How to Run:
 1. Clone the repository:
    ```bash
