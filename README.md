@@ -25,7 +25,7 @@ The algorithm will print the distance and the two closest points in the set, as 
 ## How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/closest_pair_problem.git
+   git clone https://github.com/achmadrzm/closest_pair_problem.git
 2. Run the script:
    ```bash
    python closest_pair_using_divide_and_conquer.py
